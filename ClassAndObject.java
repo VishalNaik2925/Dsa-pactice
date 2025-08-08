@@ -5,10 +5,12 @@ class Student{
     char section;
 }
 
+
 public class ClassAndObject {
     public static void main(String[] args) {
         Student s1=new Student();
         Student s2=new Student();
+        
         s1.rollNo=101;
         s1.name="John Doe";
         s1.branch="Computer Science";
