@@ -9,6 +9,7 @@ public class Array {
         Name2[3]='H';
         Name2[4]='A';
         Name2[5]='L';
+        System.out.println("Name is: "+Name2.length);
         System.out.println("Name is: "+new String(Name2));
 
         char[] Name={'V','I','S','H','A','L'};
